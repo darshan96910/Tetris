@@ -1,85 +1,86 @@
-🧱 Tetris – Java Project
-A simple and classic implementation of the popular Tetris game built using Java. This project demonstrates concepts like object-oriented programming, game loop logic, event handling, real-time rendering, and collision detection. It is designed as an academic/portfolio project to showcase core Java game-development skills.
+ 🧱 Tetris – Java Project
+          A simple and classic implementation of the popular Tetris game built using Java. This project demonstrates concepts like object-oriented programming, game loop                logic, event handling, real-time rendering, and collision detection. It is designed as an academic/portfolio project to showcase core Java game-development skills.
 
 🚀 Features
-✔️ Classic Tetris gameplay
+       ✔️ Classic Tetris gameplay
 
-✔️ Smooth block movement (left, right, down)
+       ✔️ Smooth block movement (left, right, down)
 
-✔️ Block rotation
+       ✔️ Block rotation
 
-✔️ Line clearing logic
+       ✔️ Line clearing logic
 
-✔️ Game-over detection
+       ✔️ Game-over detection
 
-✔️ Real-time game loop
+       ✔️ Real-time game loop
 
-✔️ Keyboard controls
+       ✔️ Keyboard controls
 
-✔️ Score tracking
+       ✔️ Score tracking
 
-✔️ Easy & clean UI
+       ✔️ Easy & clean UI
 
 
 🛠️ Technologies Used
-Core Java
+        Core Java
 
-Swing / AWT (for GUI)
+        Swing / AWT (for GUI)
 
-OOP Concepts
+        OOP Concepts
 
-Game Loop & Timers
+       Game Loop & Timers
 
 
 🎮 How to Play
 Controls:
 
-Left Arrow – Move block left
+   Left Arrow – Move block left
 
-Right Arrow – Move block right
+   Right Arrow – Move block right
 
-Up Arrow – Rotate block
+   Up Arrow – Rotate block
 
-Down Arrow – Speed up fall
+   Down Arrow – Speed up fall
 
-Space – Drop block instantly (if implemented)
+   Space – Drop block instantly (if implemented)
 
 ▶️ How to Run the Game
-1 > Install JDK 8+
 
-2 > Clone the repository: git clone https://github.com/darshan96910/Tetris.git
+    1 > Install JDK 8+
 
-3 > Open the project in IntelliJ IDEA, Eclipse, or run from terminal.
+    2 > Clone the repository: git clone https://github.com/darshan96910/Tetris.git
 
-4 > Compile:javac *.java
+    3 > Open the project in IntelliJ IDEA, Eclipse, or run from terminal.
 
-5 > java Tetris
+    4 > Compile:javac *.java
+
+    5 > java Tetris
 
 📚 Concepts Demonstrated
-Object-Oriented Design
+         Object-Oriented Design
 
-KeyListener event handling
+         KeyListener event handling
 
-2D grid-based movement
+         2D grid-based movement
 
-Collision detection
+         Collision detection
 
-Game loop timing
+         Game loop timing
 
-GUI rendering using Swing
+         GUI rendering using Swing
 
 📈 Future Improvements
-Add different levels
+         Add different levels
 
-Add background music
+         Add background music
 
-Add high-score system
+         Add high-score system
 
-Improve UI with custom graphics
+         Improve UI with custom graphics
 
-Add pause/resume
+         Add pause/resume
 
-Add preview of next block
+         Add preview of next block
 
 
 
