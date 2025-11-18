@@ -28,21 +28,22 @@
 
         OOP Concepts
 
-       Game Loop & Timers
+        Game Loop & Timers
 
 
 🎮 How to Play
+
 Controls:
 
-   Left Arrow – Move block left
+   1. Left Arrow – Move block left
 
-   Right Arrow – Move block right
+   2. Right Arrow – Move block right
 
-   Up Arrow – Rotate block
+   3. Up Arrow – Rotate block
 
-   Down Arrow – Speed up fall
+   4. Down Arrow – Speed up fall
 
-   Space – Drop block instantly (if implemented)
+   5. Space – Drop block instantly (if implemented)
 
 ▶️ How to Run the Game
 
