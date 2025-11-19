@@ -33,7 +33,7 @@
 
 🎮 How to Play
 
-Controls:
+      Controls:
 
    1. Left Arrow – Move block left
 
